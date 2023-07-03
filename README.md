@@ -1,2 +1,2 @@
 # autotests_selenium
-autotests selenium on Python
+Selenium Python Tests
